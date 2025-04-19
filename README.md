@@ -1,6 +1,6 @@
 HabitTracker - Mobile App for Building Better Habits
 
-Overview
+
 HabitTracker is a comprehensive mobile application built with React Native and Expo that helps users build, track, and maintain positive habits. The app provides a user-friendly interface to monitor daily progress, visualize statistics, and receive timely reminders.
 
 Features
